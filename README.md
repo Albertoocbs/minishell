@@ -6,7 +6,8 @@
   </a>
 </p>
 
-MiniShell introduce us to the world of shells, which provide a convenient text interface to interact with your system. Shells might seem very easy to understand but have very specific and defined behaviour in almost every single case, most of which will need to be handled properly.
+MiniShell introduce us to the world of shells, which provide a convenient text interface to interact with your system. 
+It is a big project that requires a good communication between both of the group member and a good organization on how you divide the work that has to be done as to not do the same thing twice or not as the other expects it to work.
 
 ---
 **Status**
@@ -16,6 +17,16 @@ Finished: 2025-07-17. Grade: ?/100.
 -------
 **Overview**
 
+What is a shell ?
+A shell or command shell is a program which has a special purpose: it reads keystrokes from the keyboard and interprets the "commands" that it receives in this way. The general idea is to have a human user interact with the command shell in order to accomplish system or computer maintenance related tasks, such as manipulating files or altering the configuration settings for various subsystems.
+
+One particular task of a command shell is to locate and start up other applications which have a specific task. For instance, you can start a web browser or a word processor program by typing in the appropriate name.
+
+Shells also typically are able to execute "batch files" or "shell scripts" which are text files that contain a series of commands that you would otherwise type in one after another. In this way you can automate repetitive tasks such as making a backup of a particular directory, or checking that the amount of disk space left is adequate.
+
+Knowing shell commands (both the built in commands and the utility programs) comes in handy when you are a system administrator. In my own experience (I have been my own linux system administrator for almost fifteen years) I can accomplish certain tasks way more efficiently using the keyboard issuing commands than firing up an application and shoving the mouse around.
+
+Linux in particular has several sophisticated command shell programs, of which my personal preference is bash. Windows traditionally has not given much attention to being able to perform tasks using a command shell. An MS-DOS like solution has always been the default. OS/2 had a pretty nifty command shell, but no one is using that anymore (where is the other half? - guffaw). But these last few years I hear Windows has a command shell solution that aims to be at least as good at what linux has to offer. I have never worked with it, so I have no opinion to offer.
 
 
 -------
